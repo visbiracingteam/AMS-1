@@ -1,2 +1,2 @@
 # AMS-1
-This is my first project on GitHub
+"This is my first project on GitHub"
